@@ -39,10 +39,10 @@ Medida.convertir = function (valor) {
 			return aux.toString();
 		}
 		catch(err) {
-			return 'Desconozco como convertir desde "'+type1+'" hasta "'+type2+'"';
+			return 'ERROR! Desconozco como convertir desde "'+type1+'" hasta "'+type2+'"';
 		}
 	}
 	else{
-		return "Introduzca una temperatura valida: 330e-1 F to C";
+		return "ERROR! Introduzca una temperatura valida: 330e-1 F to C";
 	}
 };
