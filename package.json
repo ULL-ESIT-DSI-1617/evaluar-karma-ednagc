@@ -4,7 +4,7 @@
   "description": "Práctica 7: Eliminando Switch Smells",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/karma/bin/karma start --single-run --browsers Chrome,Firefox"
   },
   "repository": {
     "type": "git",
