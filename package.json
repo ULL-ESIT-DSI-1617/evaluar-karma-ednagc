@@ -1,7 +1,7 @@
 {
-  "name": "EliminandoSwitchSmells",
+  "name": "Evaluar Karma",
   "version": "0.0.1",
-  "description": "Práctica 7: Eliminando Switch Smells",
+  "description": "Evaluar karma ednagc",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "nodejs",
     "expressjs"
   ],
-  "author": "Edna Liliana Galiano Camacho-José Luis Doblado González-Kevin Estévez Expósito",
+  "author": "Edna Liliana Galiano",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/eliminando-switch-smell-edna-joseluis-kevin-35l2v3/issues"
